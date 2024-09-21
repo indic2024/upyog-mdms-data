@@ -75,9 +75,6 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
-        },
-        {
           "code": "pg.cityb"
         },
         {
@@ -98,9 +95,7 @@
       "active": true,
       "order":2,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -121,9 +116,7 @@
       "active": true,
       "order":2,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -144,9 +137,7 @@
       "active": false,
       "order":2,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -168,9 +159,7 @@
       "active": true,
       "order":2,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -192,9 +181,7 @@
       "active": true,
       "order":2,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -227,9 +214,7 @@
       "active": true,
       "order":2,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -320,9 +305,7 @@
       "active": true,
       "order":2,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -499,9 +482,7 @@
       "active": true,
       "order": 1,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -552,9 +533,7 @@
       "active": true,
       "order": 1,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -576,9 +555,7 @@
       "active": true,
       "order": 1,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
@@ -600,9 +577,7 @@
       "active": true,
       "order":1,
       "tenants": [
-        {
-          "code": "pg.citya"
-        },
+
         {
           "code": "pg.cityb"
         },
