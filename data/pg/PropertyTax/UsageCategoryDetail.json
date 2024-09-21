@@ -258,6 +258,20 @@
       "usageCategorySubMinor": "PUBLICSPACES",
       "active": true,
       "fromFY": "2015-16"
+    },
+    {
+      "name": "Establishment Multiplex",
+      "code": "ESTABLISHMENTSINMULTIPLEX",
+      "usageCategorySubMinor": "RETAIL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Establishment in Malls",
+      "code": "ESTABLISHMENTSINMALLS",
+      "usageCategorySubMinor": "RETAIL",
+      "active": true,
+      "fromFY": "2015-16"
     }
   ]
 }
