@@ -1,0 +1,16 @@
+{
+	"tenantId": "mp.indore",
+	"moduleName": "BillingService",
+	"GLCode": [
+	{
+		"code": "BIRTH_CERT",
+		"glcode": null,
+		"cb": "mp.indore"
+	},
+	{
+		"code": "DEATH_CERT",
+		"glcode": null,
+		"cb": "mp.indore"
+	}
+	]
+}

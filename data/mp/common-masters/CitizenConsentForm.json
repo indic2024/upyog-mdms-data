@@ -1,0 +1,18 @@
+{
+    "tenantId": "mp",
+    "moduleName": "common-masters",
+    "CitizenConsentForm": [
+      {
+        "isCitizenConsentFormEnabled": true,
+        "checkBoxLabels": [
+          {
+            "linkPrefix": "CCF_I_AGREE_THE_DIGITS",
+            "link": "CCF_PRIVACY_POLICY",
+            "linkId": "PrivacyPolicy",
+            "linkPostfix": "",
+            "en_IN": "https://nugp-demo-assets.s3.ap-south-1.amazonaws.com/Policy.html"
+          }
+        ]
+      }
+    ]
+  }

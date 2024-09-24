@@ -1,0 +1,23 @@
+
+{
+  "tenantId": "mp",
+  "moduleName": "sw-services-calculation",
+  "Penalty": [
+    {
+      "rate": 10,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "16"
+    },
+     {
+      "rate": 15,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "30"
+    }
+  ]
+}

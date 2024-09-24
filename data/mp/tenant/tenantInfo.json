@@ -1,0 +1,16 @@
+{
+  "tenantId": "mp",
+  "moduleName": "tenant",
+  "tenantInfo": [
+    {
+      "code": "mp.indore",
+      "districtCode": "INDORE",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": ["PN", "HN", "EN"]
+    }
+  ]
+}

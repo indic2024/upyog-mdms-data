@@ -1,0 +1,10 @@
+{
+    "tenantId": "mp",
+    "moduleName": "DocumentUploader",
+    "UlbLevelCategories": [
+      {
+        "ulb": "mp.indore",
+        "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
+      }
+    ]
+  }

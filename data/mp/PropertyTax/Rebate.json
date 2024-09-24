@@ -1,0 +1,23 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2018-19",
+      "endingDay": "01/12",
+      "mutationPaymentPeriodInMonth":"09"
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "endingDay": "13/12",
+      "mutationPaymentPeriodInMonth":"09"
+    }
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tenantId": "mp",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+     {
+      "tenant": "mp.indore",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    }
+  ]
+}

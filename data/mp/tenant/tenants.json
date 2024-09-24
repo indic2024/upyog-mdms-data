@@ -1,0 +1,72 @@
+{
+  "tenantId": "mp",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "mp.indore",
+      "name": "Indore",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "indore@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Indore",
+        "localName": null,
+        "districtCode": "INDORE",
+        "districtName": null,
+        "districtTenantCode": "mp.indore",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.8722642,
+        "latitude": 36.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "110",
+        "ddrName": "DDR I"
+      },
+      "address": "Indore Municipal Corporation Address",
+      "contactNumber": "9911978655",
+      "helpLineNumber": "1111111111"
+    },
+    {
+      "code": "mp",
+      "name": "State",
+      "description": "State",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "pg.state@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "State",
+        "localName": "Demo State",
+        "districtCode": "0",
+        "districtName": "State",
+        "districtTenantCode": "mp",
+        "regionName": "State",
+        "ulbGrade": "ST",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+        "ddrName": null
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "0978-7645345"
+    }
+   ]
+}

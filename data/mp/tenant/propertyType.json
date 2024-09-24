@@ -1,0 +1,68 @@
+{
+  "tenantId": "mp",
+  "moduleName": "tenant",
+  "propertyType": [
+	{
+      "name": "Residential",
+      "code": "Residential",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{
+      "name": "Commercial",
+      "code": "Commercial",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{
+      "name": "Institutional",
+      "code": "Institutional",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{
+      "name": "Public and Semi Public",
+      "code": "Public And Semi Public",
+      "active": true,
+      "module": "NationalDashboard"
+	},
+
+		{
+      "name": "Mixed Use",
+      "code": "Mixed Use",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+
+	{	
+      "name": "Industrial",
+      "code": "Industrial",
+      "active": true,
+      "module": "NationalDashboard"
+    },  	
+	 {	
+      "name": "Heritage",
+      "code": "Heritage",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{	
+      "name": "Religious",
+      "code": "Religious",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{	
+      "name": "Recretional",
+      "code": "Recretional",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{	
+      "name": "Vacant land",
+      "code": "Vacant Land",
+      "active": true,
+      "module": "NationalDashboard"
+    }
+  ]
+}

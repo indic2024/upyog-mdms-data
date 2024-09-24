@@ -1,0 +1,11 @@
+{
+  "tenantId": "mp",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_INDORE_01",
+      "baseTenantId": "mp.indore",
+      "active": true
+    }
+  ]
+}

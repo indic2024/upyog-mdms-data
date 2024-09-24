@@ -1,0 +1,8 @@
+{
+    "tenantId": "mp",
+    "moduleName": "tenant",
+    "reassessmentconfig":[ {
+        "tenant": ["pg.cityb"],
+        "financialyear": "2021-22"
+    }]
+}

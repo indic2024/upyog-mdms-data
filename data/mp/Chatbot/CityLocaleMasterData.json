@@ -1,0 +1,16 @@
+{
+    "tenantId": "mp",
+    "moduleName": "Chatbot",
+    "CityLocaleMasterData": [
+        {
+            "cityName": "Indore",
+            "locale": "in_en",
+            "tenantId": "mp.indore"
+        },
+        {
+            "cityName": "इंदौर",
+            "locale": "in_hi",
+            "tenantId": "mp.indore"
+        }
+    ]
+}
