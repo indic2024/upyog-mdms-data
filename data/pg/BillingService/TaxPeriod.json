@@ -1698,6 +1698,14 @@
       "service": "pet-services",
       "code": "PET10YRS2019",
       "financialYear": "2019-29"
+    },
+    {
+      "fromDate": 1427846400000,
+      "toDate": 1459468799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2024",
+      "financialYear": "2023-24"
     }
   ]
 }
