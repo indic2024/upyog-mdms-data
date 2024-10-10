@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenants": [{
       "code": "pg.citya",
-      "name": "New Delhi",
+      "name": "City A",
       "description": "City A",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -36,7 +36,7 @@
     },
     {
       "code": "pg",
-      "name": "State",
+      "name": "pg",
       "description": "State",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
       "imageId": null,
