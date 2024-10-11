@@ -36,7 +36,7 @@
     },
     {
       "code": "pg",
-      "name": "pg",
+      "name": "PG",
       "description": "State",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
       "imageId": null,
