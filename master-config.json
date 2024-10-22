@@ -539,7 +539,7 @@
   "PropertyTax": {
     "MutationReason": {
       "masterName": "MutationReason",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
