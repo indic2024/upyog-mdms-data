@@ -8,8 +8,13 @@
       "active": true
     },
     {
-      "name": "Built Up",
-      "code": "BUILTUP",
+      "name": "Part of a Building",
+      "code": "PART_OF_BUILDING",
+      "active": true
+    },
+    {
+      "name": "Independent Building",
+      "code": "INDEPENDENTPROPERTY",
       "active": true
     }
   ]
