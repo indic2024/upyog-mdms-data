@@ -178,7 +178,7 @@
                         "submitBarLabel": "PT_COMMONS_NEXT"
                     },
                     "nextStep": {
-                        "COMMON_PROPTYPE_BUILTUP_INDEPENDENTPROPERTY": "number-of-floors",
+                        "COMMON_PROPTYPE_INDEPENDENTPROPERTY": "number-of-floors",
                         "COMMON_PROPTYPE_BUILTUP_SHAREDPROPERTY": "provide-floor-no",
                         "COMMON_PROPTYPE_VACANT": "area"
                     },
