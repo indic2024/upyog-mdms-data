@@ -179,7 +179,7 @@
                     },
                     "nextStep": {
                         "COMMON_PROPTYPE_INDEPENDENTPROPERTY": "number-of-floors",
-                        "COMMON_PROPTYPE_BUILTUP_SHAREDPROPERTY": "provide-floor-no",
+                        "COMMON_PROPTYPE_PART_OF_BUILDING": "provide-floor-no",
                         "COMMON_PROPTYPE_VACANT": "area"
                     },
                     "key": "PropertyType",
