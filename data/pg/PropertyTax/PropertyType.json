@@ -8,6 +8,11 @@
       "active": true
     },
     {
+      "name": "Built Up",
+      "code": "BUILTUP",
+      "active": false
+    },
+    {
       "name": "Flat/Part of the building",
       "code": "BUILTUP.SHAREDPROPERTY",
       "active": true,
