@@ -9,20 +9,14 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Commercial",
-      "code": "COMMERCIAL",
+      "name": "NonResidential",
+      "code": "NONRESIDENTIAL",
       "active": true,
       "fromFY": "2015-16"
     },
     {
-      "name": "Notified Industrial",
-      "code": "NOTIFIEDINDUSTRIAL",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
-      "name": "Non Notified Industrial",
-      "code": "NONNOTIFIEDINDUSTRIAL",
+      "name": "Mixed",
+      "code": "MIXED",
       "active": true,
       "fromFY": "2015-16"
     }
