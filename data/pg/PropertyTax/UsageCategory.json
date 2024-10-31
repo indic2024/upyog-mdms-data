@@ -186,6 +186,28 @@
       }
     },
     {
+      "name": "Industrial Notified",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.NOTIFIED",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Industrial Non-Notified",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.NONNOTIFIED",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
       "name": "Godown/Warehouse",
       "code": "NONRESIDENTIAL.INDUSTRIAL.WAREHOUSE",
       "active": true,
