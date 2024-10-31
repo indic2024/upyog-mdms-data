@@ -111,6 +111,30 @@
       }
     },
     {
+      "name": "Industrial Notified",
+      "code": "NOTIFIED",
+      "usageCategoryMinor": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Industrial Non-Notified",
+      "code": "NONNOTIFIED",
+      "usageCategoryMinor": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
       "name": "Godown / Warehouse",
       "code": "WAREHOUSE",
       "usageCategoryMinor": "INDUSTRIAL",
