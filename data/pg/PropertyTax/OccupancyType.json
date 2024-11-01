@@ -4,18 +4,18 @@
   "OccupancyType":
   [
     {
-      "name": "Tenanted/ Rented",
-      "code": "RENTED",
-      "active": true
-    },
-    {
       "name": "Self-Occupied",
       "code": "SELFOCCUPIED",
       "active": true
     },
     {
-      "name": "Unoccupied",
-      "code": "UNOCCUPIED",
+      "name": "Tenant",
+      "code": "TENANT",
+      "active": true
+    },
+    {
+      "name": "Vacant",
+      "code": "VACANT",
       "active": true
     },
     {
