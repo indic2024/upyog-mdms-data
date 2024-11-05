@@ -14,12 +14,12 @@
     },
     {
       "name": "Other partially constructed or buildings which are not in use",
-      "code": "OTHERCONSTRUCTION",
+      "code": "OTHERPARTIALLYCONSTRUCTED",
       "active": true
     },
     {
       "name": "Open Land",
-      "code": "BUILTUP.INDEPENDENTPROPERTY",
+      "code": "OPENLAND",
       "active": true
     }
   ]
