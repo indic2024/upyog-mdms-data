@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName": "PropertyTax",
+  "PropertyConstructionType": [
+    {
+      "name": "R.C.C. , R.B.C. , concrete buildings with stone roof",
+      "code": "CONCRETEBUILDING",
+      "active": true
+    },
+    {
+      "name": "Cement or Iron roof or Tiles buildings",
+      "code": "TILESBUILDING",
+      "active": true
+    },
+    {
+      "name": "Other partially constructed or buildings which are not in use",
+      "code": "OTHERCONSTRUCTION",
+      "active": true
+    },
+    {
+      "name": "Open Land",
+      "code": "BUILTUP.INDEPENDENTPROPERTY",
+      "active": true
+    }
+  ]
+}
