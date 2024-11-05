@@ -598,6 +598,13 @@
         "$.code"
       ]
     },
+    "PropertyConstructionType": {
+      "masterName": "PropertyConstructionType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "PropertySubType": {
       "masterName": "PropertySubType",
       "isStateLevel": true,
