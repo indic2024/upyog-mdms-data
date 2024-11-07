@@ -7,8 +7,7 @@
         "code": "REVENUE",
         "name": "REVENUE"
       },
-      "boundary":
-      {
+      "boundary": {
         "id": 1,
         "boundaryNum": 1,
         "name": "City A",
@@ -21,12 +20,12 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 1,
-            "name": "ZONE_1",
-            "localname": "ZONE 1",
+            "name": "ZONE_EAST",
+            "localname": "ZONE EAST",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "JZN1",
+            "code": "JZNEAST",
             "children": [
               {
                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -47,9 +46,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC476",
-                    "pincode": [143001],
+                    "pincode": [
+                      143001
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72490",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_1",
+                        "localname": "RATEZONE 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE1",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "62679cab-680f-43ab-85ca-1ab89a91d3a4",
@@ -60,9 +73,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC477",
-                    "pincode": [143002],
+                    "pincode": [
+                      143002
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72490",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_1",
+                        "localname": "RATEZONE 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE1",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "70c48267-09f4-44e5-8a09-dda5d5c83a99",
@@ -73,9 +100,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC478",
-                    "pincode": [143003],
+                    "pincode": [
+                      143003
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72490",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_1",
+                        "localname": "RATEZONE 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE1",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "2d88d556-3a4b-462b-b17d-bbf65b2f21a4",
@@ -86,9 +127,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC479",
-                    "pincode": [143004],
+                    "pincode": [
+                      143004
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72490",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_1",
+                        "localname": "RATEZONE 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE1",
+                        "children": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -111,9 +166,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC476",
-                    "pincode": [143001],
+                    "pincode": [
+                      143001
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72491",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_2",
+                        "localname": "RATEZONE 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE2",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "62679cab-680f-43ab-85ca-1ab89a91d3a4",
@@ -124,9 +193,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC477",
-                    "pincode": [143002],
+                    "pincode": [
+                      143002
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72491",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_2",
+                        "localname": "RATEZONE 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE2",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "70c48267-09f4-44e5-8a09-dda5d5c83a99",
@@ -137,9 +220,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC478",
-                    "pincode": [143003],
+                    "pincode": [
+                      143003
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72491",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_2",
+                        "localname": "RATEZONE 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE2",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "2d88d556-3a4b-462b-b17d-bbf65b2f21a4",
@@ -150,9 +247,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC479",
-                    "pincode": [143004],
+                    "pincode": [
+                      143004
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72491",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_2",
+                        "localname": "RATEZONE 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE2",
+                        "children": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -161,12 +272,12 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 1,
-            "name": "ZONE_2",
-            "localname": "ZONE 2",
+            "name": "ZONE_WEST",
+            "localname": "ZONE WEST",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "JZN2",
+            "code": "JZNWEST",
             "children": [
               {
                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -187,9 +298,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC476",
-                    "pincode": [143001],
+                    "pincode": [
+                      143001
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72490",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_1",
+                        "localname": "RATEZONE 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE1",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "62679cab-680f-43ab-85ca-1ab89a91d3a4",
@@ -200,9 +325,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC477",
-                    "pincode": [143002],
+                    "pincode": [
+                      143002
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72491",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_2",
+                        "localname": "RATEZONE 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE2",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "70c48267-09f4-44e5-8a09-dda5d5c83a99",
@@ -213,9 +352,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC478",
-                    "pincode": [143003],
+                    "pincode": [
+                      143003
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72491",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_2",
+                        "localname": "RATEZONE 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE2",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "2d88d556-3a4b-462b-b17d-bbf65b2f21a4",
@@ -226,9 +379,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC479",
-                    "pincode": [143004],
+                    "pincode": [
+                      143004
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72490",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_1",
+                        "localname": "RATEZONE 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE1",
+                        "children": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -251,9 +418,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC476",
-                    "pincode": [143001],
+                    "pincode": [
+                      143001
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72490",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_1",
+                        "localname": "RATEZONE 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE1",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "62679cab-680f-43ab-85ca-1ab89a91d3a4",
@@ -264,9 +445,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC477",
-                    "pincode": [143002],
+                    "pincode": [
+                      143002
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72490",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_1",
+                        "localname": "RATEZONE 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE1",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "70c48267-09f4-44e5-8a09-dda5d5c83a99",
@@ -277,9 +472,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC478",
-                    "pincode": [143003],
+                    "pincode": [
+                      143003
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72491",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_2",
+                        "localname": "RATEZONE 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE2",
+                        "children": []
+                      }
+                    ]
                   },
                   {
                     "id": "2d88d556-3a4b-462b-b17d-bbf65b2f21a4",
@@ -290,9 +499,23 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC479",
-                    "pincode": [143004],
+                    "pincode": [
+                      143004
+                    ],
                     "area": "Area1",
-                    "children": []
+                    "children": [
+                      {
+                        "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72491",
+                        "boundaryNum": 1,
+                        "name": "RATEZONE_2",
+                        "localname": "RATEZONE 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "RateZone",
+                        "code": "RATEZONE2",
+                        "children": []
+                      }
+                    ]
                   }
                 ]
               }
