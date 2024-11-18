@@ -44,7 +44,7 @@
         },
         {
           "code": "OWNER.ADDRESSPROOF.AADHAAR",
-          "active": false
+          "active": true
         },
         {
           "code": "OWNER.ADDRESSPROOF.VOTERID",
