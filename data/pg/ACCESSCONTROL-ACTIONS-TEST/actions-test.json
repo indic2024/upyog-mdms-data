@@ -18035,6 +18035,17 @@
       "path": "WS.Integrated-Bill",
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 2820,
+      "name": "Authorized User",
+      "url": "/access/v1/actions/_authorize",
+      "displayName": "Authorized User",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "AccessControl",
+      "code": "null",
+      "path": "Access Control.Get All Actions"
+   }
    ]
 }

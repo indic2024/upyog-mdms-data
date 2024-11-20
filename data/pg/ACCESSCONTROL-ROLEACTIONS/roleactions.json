@@ -2955,6 +2955,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2820,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "Asset Administrator",
       "actionid": 483,
       "actioncode": "",
