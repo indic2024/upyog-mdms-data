@@ -18046,6 +18046,24 @@
       "serviceCode": "AccessControl",
       "code": "null",
       "path": "Access Control.Get All Actions"
-   }
+   },
+       {
+      "id": 2820,
+      "name": "ONDC",
+      "url": "digit-ui-card",
+      "displayName": "ONDC",
+      "orderNumber": 14,
+      "parentModule": "ONDC",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/mcollect/My-Challans",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/mcollect-home"
+    }
    ]
 }
