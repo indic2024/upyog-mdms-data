@@ -614,6 +614,29 @@
           "code": "pg.citye"
         }
       ]
+    },
+    {
+      "module": "ONDC",
+      "code": "ondc",
+      "active": true,
+      "order": 14,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
     }
   ]
 }
